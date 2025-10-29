@@ -48,3 +48,4 @@
 <img src="https://raw.githubusercontent.com/NivaldoT/NivaldoT/output/snake.svg" alt="Snake animation" />
 
 ###
+<img src="https://raw.githubusercontent.com/NivaldoT/NivaldoT/output/snake.svg" alt="Snake animation" />
