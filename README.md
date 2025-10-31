@@ -2,7 +2,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/ddf665f4-fdbe-4a3a-9f44-a60a29ca00f3" />
+<img width="1700" height="460" alt="github-header-banner " src="https://github.com/user-attachments/assets/f2b0d61b-4572-4652-993d-4081f83e18f0" />
 
 ###
 
