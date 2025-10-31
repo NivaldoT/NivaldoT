@@ -1,8 +1,8 @@
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/ddf665f4-fdbe-4a3a-9f44-a60a29ca00f3" />
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
+
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/ddf665f4-fdbe-4a3a-9f44-a60a29ca00f3" />
 
 ###
 
@@ -48,3 +48,6 @@
 <img src="https://raw.githubusercontent.com/NivaldoT/NivaldoT/output/snake.svg" alt="Snake animation" />
 
 ###
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
