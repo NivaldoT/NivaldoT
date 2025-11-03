@@ -42,4 +42,4 @@
 <img src="https://raw.githubusercontent.com/NivaldoT/NivaldoT/output/snake.svg" alt="Snake animation" />
 
 ###
-<a href="Nivaldo Targino Lima Junior.pdf" download>Baixe meu currículo<i class="fa-solid fa-download"></i></span></a>
+<a href="https://github.com/nivaldot/nivaldot/raw/main/Nivaldo%20Targino%20Lima%20Junior.pdf" download>Baixe meu currículo<i class="fa-solid fa-download"></i></span></a>
