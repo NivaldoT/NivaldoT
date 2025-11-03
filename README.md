@@ -37,7 +37,9 @@
 </div>
 
 ###
+## <p align="center"><a href= 'https://nivaldot.github.io/portfolio/'>Acesse meu portfolio<a/></p>
 
 <img src="https://raw.githubusercontent.com/NivaldoT/NivaldoT/output/snake.svg" alt="Snake animation" />
 
 ###
+<a href="Nivaldo Targino Lima Junior.pdf" download>Baixe meu currículo<i class="fa-solid fa-download"></i></span></a>
