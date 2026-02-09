@@ -21,9 +21,10 @@
 </div>
 
 ###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -38,8 +39,8 @@
 
 ###
 ## <p align="center"><a href= 'https://nivaldot.github.io/portfolio/'>Acesse meu portfolio<a/></p>
+## <p align="center"><a href="https://github.com/nivaldot/nivaldot/raw/main/Nivaldo%20Targino%20Lima%20Junior.pdf" download>Baixe meu currículo<i class="fa-solid fa-download"></i></span></a></p>
 
 <img src="https://raw.githubusercontent.com/NivaldoT/NivaldoT/output/snake.svg" alt="Snake animation" />
 
 ###
-<a href="Nivaldo Targino Lima Junior.pdf" download>Baixe meu currículo<i class="fa-solid fa-download"></i></span></a>
